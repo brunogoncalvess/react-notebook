@@ -1,0 +1,19 @@
+.note-div {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    max-width: 100%
+}
+
+.icon {
+    color: rgb(0, 0, 0);
+    height: .8rem;
+}
+
+.note-button-wrapper {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
